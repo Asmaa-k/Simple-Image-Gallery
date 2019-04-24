@@ -1,18 +1,18 @@
 # Simple Image Gallery
 
-Communicating with a webservice (rest api) using Retrofit2
-MVVM Architecture: ViewModel, Repository, Client structure
-Custom Loading Animation ProgressBar in Recyclerview
-RecyclerView
-Customizing Toolbar Behaviors with CoordinatorLayout and AppBarLayout
-Observables, LiveData, MutableLiveData and MediatorLiveData
-Displaying Images using Glide
-CardViews
-SearchViews
-Passing data between activities using intent extras
-Executors and Background Threads
-ThreadPools
-Network Security Config for HTTP (API 28+)
+## Communicating with a webservice (rest api) using Retrofit2
+## MVVM Architecture: ViewModel, Repository, Client structure
+## Custom Loading Animation ProgressBar in Recyclerview
+## RecyclerView
+## Customizing Toolbar Behaviors with CoordinatorLayout and AppBarLayout
+## Observables, LiveData, MutableLiveData and MediatorLiveData
+## Displaying Images using Glide
+## CardViews
+## SearchViews
+## Passing data between activities using intent extras
+## Executors and Background Threads
+## ThreadPools
+## Network Security Config for HTTP (API 28+)
 
 
 
